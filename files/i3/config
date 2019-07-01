@@ -152,5 +152,5 @@ bindsym $mod+r mode "resize"
 # Terminal Root changes
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh &
 exec $HOME/.fehbg
-exec /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
-compton &
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
+exec compton &
