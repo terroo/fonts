@@ -307,11 +307,11 @@ label-close-foreground = ${colors.secondary}
 label-separator = |
 label-separator-foreground = ${colors.foreground-alt}
 menu-0-0 =  
-menu-0-0-exec = sudo reboot
+menu-0-0-exec = reboot
 menu-0-1 =  
-menu-0-1-exec = sudo poweroff
+menu-0-1-exec = poweroff
 menu-0-2 = 
-menu-0-2-exec = bspc quit
+menu-0-2-exec = i3-msg exit
 
 
 [settings]
