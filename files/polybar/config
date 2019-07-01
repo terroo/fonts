@@ -30,7 +30,7 @@ font-2 = "xos4 Terminus:size=12;1"
 font-3 = FantasqueSansMono:style:regular:pixelsize=10;1
 font-4 = icomoon:pixelsize=13;2"
 font-5 = SymbolsNerdFont:style:1000-em:pixelsize=11;1
-font-6 = FontAwesome:style:regular:pixelsize=13;2
+font-6 = FontAwesome:style:regular:pixelsize=20;2
 modules-left = menu i3
 modules-center = xwindow
 modules-right = filesystem pulseaudio xkeyboard memory cpu date powermenu
