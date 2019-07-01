@@ -31,9 +31,9 @@ font-3 = FantasqueSansMono:style:regular:pixelsize=10;1
 font-4 = icomoon:pixelsize=13;2"
 font-5 = SymbolsNerdFont:style:1000-em:pixelsize=11;1
 font-6 = FontAwesome:style:regular:pixelsize=20;2
-modules-left = menu i3 mpd
+modules-left = menu i3
 modules-center = xwindow
-modules-right = filesystem xbacklight wlan pulseaudio xkeyboard memory cpu battery temperature date powermenu
+modules-right = filesystem pulseaudio xkeyboard memory cpu date powermenu
 tray-position = right
 tray-padding = 2
 cursor-click = pointer
