@@ -6,7 +6,7 @@ foreground-alt = #555
 primary = #ffb52a
 secondary = #e60053
 alert = #bd2c40
-linebottom = #8D24AA
+linebottom = #73d216
 
 
 [bar/topbar]
