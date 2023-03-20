@@ -1,8 +1,7 @@
---local install = "mv fonts ~/.local/share/"
---
+-- local install = "mv fonts ~/.local/share/"
 
 function fn_install()
-  local install = "mv fonts ~/AQUI/"
+  local install = "mv fonts ~/.local/share/"
   os.execute(install)
   print("Fonts to be read...")
   return true
