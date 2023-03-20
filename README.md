@@ -1,4 +1,4 @@
-# 💻 Fonts Terminal Root
+🌳 💻 Fonts Terminal Root
 Fonts Terminal Root - My fonts preferred
 > A quick alternative to [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)!
 
