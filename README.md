@@ -18,6 +18,7 @@ If you prefer to use a script to install, run:
 
 ```bash
 git clone --depth=1 https://github.com/terroo/fonts
+cd fonts
 lua install.lua
 ```
 
